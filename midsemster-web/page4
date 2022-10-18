@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="web.css">
+</head>
+
+<body>
+    <div style="padding-left:16px">
+        <h1>Reasons for doing the course</h1>
+        <p1>Am doing the course because i love web development<br>
+         The other reason is to acquire the different skills in programming<br>
+         The other reason is to improve my set of skills in HTML and CSS.</p1>
+</body>
+
+</html>

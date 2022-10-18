@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="web.css">
+</head>
+
+<body>
+    <h1>CSS</h1>
+    <P1>CSS stands for Cascading Style Sheets · CSS describes how HTML elements are to be displayed on screen, paper, or in other media.</P1>
+    <h1>CSS AND ITS IMPORTANCES</h1>
+    <P1>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.</p1><br>
+    <p2> CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.</p2>
+</body>
+
+</html>

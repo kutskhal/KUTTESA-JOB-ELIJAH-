@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="web.css">
+</head>
+
+<body>
+     <div style="padding-left:16px">
+        <h1>About Me</h1>
+         <p1>I am Kuteesa Job doing a course of Software Engineering<br>
+         I am basically from a simple christian family<br>
+          I hope to get the best from web development</p1>
+
+</body>
+
+</html>
